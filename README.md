@@ -105,6 +105,5 @@ Insights and recommendations are provided on the following key areas:
 ---
 
 ## **Technical Resources**
-* 📊 **Interactive Dashboard:** [View on NovyPro/PowerBI Service](#)
-* 📁 **SQL Queries (Cleaning & Prep):** [View SQL Scripts](sql/Telco_Analysis.sql)
+* 📊 **Interactive Dashboard:** [View on NovyPro/PowerBI Service](Dashboard/dashboard1.png)
 * 📑 **Business Analysis Queries:** [View SQL Insights](./SQL_Analysis)
