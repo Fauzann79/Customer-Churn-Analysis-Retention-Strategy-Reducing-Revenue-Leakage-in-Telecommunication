@@ -106,5 +106,5 @@ Insights and recommendations are provided on the following key areas:
 
 ## **Technical Resources**
 * 📊 **Interactive Dashboard:** [View on NovyPro/PowerBI Service](#)
-* 📁 **SQL Queries (Cleaning & Prep):** [View SQL Scripts](./SQL_Scripts)
+* 📁 **SQL Queries (Cleaning & Prep):** [View SQL Scripts]([./SQL_Scripts](https://github.com/Fauzann79/Customer-Churn-Analysis-Retention-Strategy-Reducing-Revenue-Leakage-in-Telecommunication/tree/a06471490a1386cf2a77ee8d7dd1596de09352f3/sql))
 * 📑 **Business Analysis Queries:** [View SQL Insights](./SQL_Analysis)
