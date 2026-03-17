@@ -13,7 +13,7 @@ Insights and recommendations are provided on the following key areas:
 ## **Visual Intelligence Overview**
 
 ### **1. Executive Key Performance Indicators (KPIs)**
-![KPI Overview](link_gambar_kpi_kamu.png)
+![KPI Overview](Images/KPI.png)
 * **Analysis:** The dashboard monitors four core metrics: Total Customers (**7,043**), Churn Rate (**27%**), Total MRR (**$456.12K**), and Lost MRR (**$139.13K**).
 * **Business Insight:** A **27% churn rate** indicates a significant revenue leak of **$139K**. This identifies a massive opportunity for recovery through targeted retention interventions.
 
