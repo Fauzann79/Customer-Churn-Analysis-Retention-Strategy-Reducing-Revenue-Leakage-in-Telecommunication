@@ -23,7 +23,7 @@ Insights and recommendations are provided on the following key areas:
 * **Business Insight:** While this segment provides the bulk of current revenue, it is the most volatile. High concentration of short-term contracts creates a high-risk financial profile.
 
 ### **3. Loss Distribution by Internet Services**
-![Loss Distribution](link_gambar_bar_chart_kamu.png)
+![Loss Distribution](Images/loss-distribution.png)
 * **Analysis:** This visualization breaks down revenue loss by service type. **Fiber Optic** users account for the highest volume of churned customers.
 * **Business Insight:** The disproportionate loss in Fiber Optic suggests a potential gap in price-to-value perception or technical stability within this premium segment.
 
