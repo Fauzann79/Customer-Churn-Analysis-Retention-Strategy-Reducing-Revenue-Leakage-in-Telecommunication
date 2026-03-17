@@ -18,7 +18,7 @@ Insights and recommendations are provided on the following key areas:
 * **Business Insight:** A **27% churn rate** indicates a significant revenue leak of **$139K**. This identifies a massive opportunity for recovery through targeted retention interventions.
 
 ### **2. Revenue Composition by Contract Type**
-![Revenue by Contract](link_gambar_donut_chart_kamu.png)
+![Revenue by Contract](Images/Revenue by contract.png)
 * **Analysis:** The donut chart reveals that **56.41% ($257K)** of total revenue is tied to **Month-to-Month** contracts.
 * **Business Insight:** While this segment provides the bulk of current revenue, it is the most volatile. High concentration of short-term contracts creates a high-risk financial profile.
 
