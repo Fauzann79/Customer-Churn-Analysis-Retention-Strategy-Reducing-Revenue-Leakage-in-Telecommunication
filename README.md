@@ -40,7 +40,7 @@ Insights and recommendations are provided on the following key areas:
 * **Business Insight:** This is the most critical segment. High-tier service costs combined with zero contractual commitment create a "Perfect Storm" for churn, requiring immediate strategic intervention.
 
 ### **4. Behavioral Drivers (Tenure & Support)**
-![Behavioral Analysis](Images/behavioral-analysis.png)
+![Behavioral Analysis](Images/behavioral-analysis'.png)
 * **Analysis:** Churn velocity peaks in the **first 6 months** (>50%), but customers with **Tech Support** have their churn probability **cut in half (15% vs 31%)**.
 * **Business Insight:** Loyalty is won in the first semester. By proactively engaging new users with Tech Support services, we can effectively secure revenue that would otherwise be lost in the "Danger Zone."
 
