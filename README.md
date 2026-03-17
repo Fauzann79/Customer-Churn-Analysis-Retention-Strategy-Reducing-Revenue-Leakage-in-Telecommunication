@@ -28,7 +28,7 @@ Insights and recommendations are provided on the following key areas:
 * **Business Insight:** The disproportionate loss in Fiber Optic suggests a potential gap in price-to-value perception or technical stability within this premium segment.
 
 ### **4. Revenue Retention vs. Leakage**
-![Revenue vs Leakage]([link_gambar_stacked_bar_kamu.png](https://github.com/Fauzann79/Customer-Churn-Analysis-Retention-Strategy-Reducing-Revenue-Leakage-in-Telecommunication/blob/754a521d00c2878d100988f6549003bf1028548d/Images/revenue-vs-lost.png))
+![Revenue vs Leakage](Images/revenue-vs-lost.png)
 * **Analysis:** This comparison tracks held revenue versus lost revenue across contract categories.
 * **Business Insight:** **Lost MRR** (dark shaded area) is almost exclusively concentrated in **Month-to-Month** contracts, validating long-term contracts as the most effective "revenue shield."
 
