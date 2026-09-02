@@ -97,14 +97,9 @@ Insights and recommendations are provided across four focus areas: contract risk
 
 ---
 
-## 🔗 Resources
-
-- 📊 **Interactive Dashboard:** [View on Power BI Service](#)
-- 📁 **SQL Scripts (Cleaning & Prep):** [`./SQL_Scripts`](./SQL_Scripts)
-- 📑 **Business Analysis Queries:** [`./SQL_Analysis`](./SQL_Analysis)
 
 ---
 
 ## 👤 Author
 
-**Rafli** — [GitHub](https://github.com/Fauzann79)
+**Fauzan Rafli** — [GitHub](https://github.com/Fauzann79)
