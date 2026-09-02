@@ -52,7 +52,7 @@ Insights and recommendations are provided across four focus areas: contract risk
 **Business Insight:** This segment is where cost, flexibility, and churn intersect — Fiber Optic is the premium-priced service, and month-to-month gives customers zero friction to leave. It's the single highest-value target for intervention.
 
 ### 4. Behavioral Drivers — Tenure & Tech Support
-![Behavioral Analysis](Images/behavioral-analysis.png)
+![Behavioral Analysis](Images/behavioral-analysis'.png)
 
 **Analysis:** Churn velocity peaks in the **first 6 months** (>50% of all churn events), then drops sharply. Customers with Tech Support churn at **15%**, versus **31%** for those without — roughly half.
 
